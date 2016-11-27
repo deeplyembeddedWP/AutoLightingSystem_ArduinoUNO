@@ -1,7 +1,7 @@
 Download the 'C' file. Copy and paste the c code to your Arduino IDE and perform the following steps:
 
-1. Please visit the "https://deeplyembedded.wordpress.com/2016/10/29/design_embedded_…g_state_machines/" and 
-rig up the circuit as shown in the link.
+1. Please visit this link : https://deeplyembedded.wordpress.com/2016/10/30/embedded-state-machine-design/
+ and rig up the circuit as shown.
 
 2. Compile the software in the Arduino IDE and make sure it compiles sucessfully
 
